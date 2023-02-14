@@ -32,6 +32,6 @@ public static void main(String[] args) throws IOException {
 		String value = String.valueOf(i);
 		System.out.println(value);
 		}
-
+wb.close;
 }
 }
